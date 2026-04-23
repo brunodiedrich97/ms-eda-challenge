@@ -1,0 +1,10 @@
+# Docker data (onde ficam os arquivos do MySQL e Kafka no seu PC)
+.docker/
+docker-data/
+
+# Binários do Go
+*.exe
+
+# IDEs
+.idea/
+.vscode/
